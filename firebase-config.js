@@ -4,14 +4,14 @@ import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.9.1/firebase
 import { getDatabase } from "https://www.gstatic.com/firebasejs/11.9.1/firebase-database.js";
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY_HERE",                 // your api key
-  authDomain: "YOUR_AUTH_DOMAIN_HERE",         // your auth domain e.g. your-app.firebaseapp.com
-  databaseURL: "YOUR_DATABASE_URL_HERE",      // e.g. https://your-app-default-rtdb.firebaseio.com
-  projectId: "YOUR_PROJECT_ID_HERE",           // your firebase project id
-  storageBucket: "YOUR_STORAGE_BUCKET_HERE",   // e.g. your-app.appspot.com
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID_HERE",
-  appId: "YOUR_APP_ID_HERE",
-  measurementId: "YOUR_MEASUREMENT_ID_HERE"
+  apiKey: "AIzaSyDJmhYSN1lzUe3fVWxkQLzhwI1NXIMBcOE",
+  authDomain: "zyrex-panel.firebaseapp.com",
+  databaseURL: "https://zyrex-panel-default-rtdb.firebaseio.com",
+  projectId: "zyrex-panel",
+  storageBucket: "zyrex-panel.firebasestorage.app",
+  messagingSenderId: "748589300500",
+  appId: "1:748589300500:web:46337e595fa41d9b25a001",
+  measurementId: "G-BS038EWN18"
 };
 
 // Initialize Firebase
